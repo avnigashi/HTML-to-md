@@ -2,3 +2,5 @@ PyQt5
 transformers
 torch
 markdown
+requests
+bs4
